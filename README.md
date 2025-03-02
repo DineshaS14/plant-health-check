@@ -91,7 +91,7 @@ cd plant-disease-frontend
 npm install 
 
 npm run dev
-
+```
 Open the app in your browser at http://localhost:3000
 
 ## 🎯 How It Works (Backend Integration Flow)
@@ -125,5 +125,6 @@ If you find this project useful, consider giving it a ⭐ on GitHub!
 📩 Open Issues & PRs Welcome!
 
 References: 
+``` sh
 https://www.kaggle.com/datasets/sebastianpalaciob/plantvillage-for-object-detection-yolo
-
+```
