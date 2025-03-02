@@ -1,4 +1,5 @@
-"use client";
+// InputPageTwo.tsx
+'use client'
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 
@@ -8,7 +9,7 @@ export default function InputPageTwo() {
   const router = useRouter();
 
   const handleSubmit = () => {
-    router.push("/result");
+    router.push(`/result?location=${encodeURIComponent(location)}&soilType=${encodeURIComponent(soilType)}`);
   };
 
   return (
@@ -27,8 +28,12 @@ export default function InputPageTwo() {
         onChange={(e) => setSoilType(e.target.value)}
       >
         <option value="">Select Soil Type</option>
-        <option value="loamy">Loamy Agricultural Soil</option>
-        <option value="sandy">Sandy Soil</option>
+        <option value="loamy">Loamy Soil - Ideal for plant growth</option>
+        <option value="sandy">Sandy Soil - Drains quickly</option>
+        <option value="peaty">Peaty Soil - Rich in organic matter</option>
+        <option value="silty">Silty Soil - Smooth and fertile</option>
+        <option value="chalky">Chalky Soil - Alkaline and rocky</option>
+        <option value="clay">Clay Soil - Dense and rich in nutrients</option>
       </select>
 
       <button
