@@ -1,0 +1,1033 @@
+{
+  "APAS": {
+    "name": "Apple___Apple_scab",
+    "treatment": {
+      "default": [
+        "Remove infected leaves and fruit.",
+        "Apply copper-based or Captan fungicide as per label instructions.",
+        "Improve air circulation with proper pruning."
+      ],
+      "humidity": [
+        "Increase fungicide frequency during high humidity.",
+        "Avoid overhead irrigation to reduce leaf wetness."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0; add lime if too acidic."
+      ],
+      "temperature": [
+        "Ensure proper ventilation during warm, moist periods."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to maintain plant vigor."
+      ],
+      "pesticide": [
+        "Consider organic options (e.g., neem oil) if chemical options are not preferred."
+      ]
+    },
+    "sources": [
+      "https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/AppleScab.aspx",
+      "Local Extension Service Guidelines"
+    ]
+  },
+  "APBR": {
+    "name": "Apple___Black_rot",
+    "treatment": {
+      "default": [
+        "Remove and destroy infected tissues.",
+        "Apply copper-based fungicides."
+      ],
+      "humidity": [
+        "Improve air circulation and minimize prolonged leaf wetness."
+      ],
+      "pH": [
+        "Keep soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Reduce irrigation during warm weather to limit fungal growth."
+      ],
+      "fertilizer": [
+        "Provide balanced nutrition to enhance tree health."
+      ],
+      "pesticide": [
+        "Follow integrated pest management (IPM) guidelines for fungicide use."
+      ]
+    },
+    "sources": [
+      "University of California Agriculture and Natural Resources",
+      "Extension Service Recommendations"
+    ]
+  },
+  "APCR": {
+    "name": "Apple___Cedar_apple_rust",
+    "treatment": {
+      "default": [
+        "Prune and remove rusted leaves promptly.",
+        "Apply rust-specific fungicides (e.g., myclobutanil)."
+      ],
+      "humidity": [
+        "Thin the canopy to improve airflow and reduce humidity."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Avoid over-irrigation in warm weather to prevent prolonged wetness."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to promote vigorous growth."
+      ],
+      "pesticide": [
+        "Apply copper-based fungicides if rust pressure is high."
+      ]
+    },
+    "sources": [
+      "APSnet Citrus and Pome Fruit Disease Management",
+      "Extension guidelines"
+    ]
+  },
+  "APHE": {
+    "name": "Apple___healthy",
+    "treatment": {
+      "default": [
+        "Maintain standard orchard management practices including pruning, proper irrigation, and balanced fertilization."
+      ],
+      "humidity": [
+        "Ensure good canopy ventilation to reduce disease risk."
+      ],
+      "pH": [
+        "Keep soil pH within 6.0 to 7.0 for optimal nutrient uptake."
+      ],
+      "temperature": [
+        "Monitor irrigation during extreme temperatures."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer as recommended by soil tests."
+      ],
+      "pesticide": [
+        "Use preventive sprays only if pest pressure increases."
+      ]
+    },
+    "sources": [
+      "Local Extension Service",
+      "University Orchard Management Guidelines"
+    ]
+  },
+  "BLHE": {
+    "name": "Blueberry___healthy",
+    "treatment": {
+      "default": [
+        "Maintain proper mulching, pruning, and balanced fertilization.",
+        "Ensure adequate drainage to prevent root diseases."
+      ],
+      "humidity": [
+        "Avoid waterlogging; blueberries need well-drained, moist (not wet) soils."
+      ],
+      "pH": [
+        "Blueberries require acidic soil (pH 4.5–5.5); adjust with elemental sulfur if needed."
+      ],
+      "temperature": [
+        "Provide partial shade during extreme heat."
+      ],
+      "fertilizer": [
+        "Use acidifying fertilizers formulated for blueberries."
+      ],
+      "pesticide": [
+        "Monitor for pests and use organic pesticides if required."
+      ]
+    },
+    "sources": [
+      "University of Georgia Blueberry Production Guide",
+      "Extension Service Blueberry Management"
+    ]
+  },
+  "CHPM": {
+    "name": "Cherry___Powdery_mildew",
+    "treatment": {
+      "default": [
+        "Remove infected foliage promptly.",
+        "Apply sulfur-based or neem oil fungicides."
+      ],
+      "humidity": [
+        "Increase fungicide frequency during high humidity and improve air circulation."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Fungicide applications are critical during warm, dry spells."
+      ],
+      "fertilizer": [
+        "Ensure balanced fertilization to reduce plant stress."
+      ],
+      "pesticide": [
+        "Follow label recommendations for fungicide application."
+      ]
+    },
+    "sources": [
+      "Cherry Powdery Mildew Management - Extension Service",
+      "Research Review: Powdery Mildew Control in Fruit Trees"
+    ]
+  },
+  "CHHE": {
+    "name": "Cherry___healthy",
+    "treatment": {
+      "default": [
+        "Maintain regular cultural practices including proper pruning, irrigation, and fertilization."
+      ],
+      "humidity": [
+        "Ensure adequate air flow to minimize fungal pressure."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Protect trees from extreme temperature swings."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer as needed."
+      ],
+      "pesticide": [
+        "Use preventive organic sprays if necessary."
+      ]
+    },
+    "sources": [
+      "Cherry Orchard Management Guidelines - Extension"
+    ]
+  },
+  "CCGL": {
+    "name": "Corn___Cercospora_leaf_spot Gray_leaf_spot",
+    "treatment": {
+      "default": [
+        "Remove and destroy infected leaves.",
+        "Apply fungicides such as chlorothalonil."
+      ],
+      "humidity": [
+        "Adjust irrigation to avoid excessive moisture."
+      ],
+      "pH": [
+        "Maintain soil pH around 6.0 to 6.5."
+      ],
+      "temperature": [
+        "Avoid overwatering during warm weather."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to support plant health."
+      ],
+      "pesticide": [
+        "Follow local extension service recommendations for fungicide treatments."
+      ]
+    },
+    "sources": [
+      "Corn Disease Management - Extension Service",
+      "Research Article on Cercospora Leaf Spot Control"
+    ]
+  },
+  "CCOR": {
+    "name": "Corn___Common_rust",
+    "treatment": {
+      "default": [
+        "Remove infected plant parts promptly.",
+        "Apply rust-specific fungicides (e.g., azoxystrobin)."
+      ],
+      "humidity": [
+        "Improve air flow and avoid overhead watering."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.5."
+      ],
+      "temperature": [
+        "Reduce irrigation during warm periods."
+      ],
+      "fertilizer": [
+        "Ensure balanced nutrition to reduce stress."
+      ],
+      "pesticide": [
+        "Follow IPM guidelines for fungicide application."
+      ]
+    },
+    "sources": [
+      "Corn Rust Management - Extension Service",
+      "Agricultural Research on Rust in Corn"
+    ]
+  },
+  "CNLB": {
+    "name": "Corn___Northern_Leaf_Blight",
+    "treatment": {
+      "default": [
+        "Remove and destroy affected leaves.",
+        "Apply fungicides such as azoxystrobin."
+      ],
+      "humidity": [
+        "Thin the canopy to enhance air circulation."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.5."
+      ],
+      "temperature": [
+        "Avoid prolonged leaf wetness by adjusting irrigation."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer to support plant vigor."
+      ],
+      "pesticide": [
+        "Adhere to local guidelines for fungicide applications."
+      ]
+    },
+    "sources": [
+      "Northern Leaf Blight Management - Extension Service"
+    ]
+  },
+  "CNHE": {
+    "name": "Corn___healthy",
+    "treatment": {
+      "default": [
+        "Continue standard agronomic practices including balanced fertilization, proper irrigation, and routine pest monitoring."
+      ],
+      "humidity": [
+        "Ensure proper drainage and avoid overwatering."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.5."
+      ],
+      "temperature": [
+        "Adjust irrigation during extreme heat."
+      ],
+      "fertilizer": [
+        "Use a balanced fertilizer based on soil test recommendations."
+      ],
+      "pesticide": [
+        "Apply preventive IPM measures if needed."
+      ]
+    },
+    "sources": [
+      "Standard Agronomic Practices for Corn - Extension Service"
+    ]
+  },
+  "GRBR": {
+    "name": "Grape___Black_rot",
+    "treatment": {
+      "default": [
+        "Remove infected clusters and leaves immediately.",
+        "Apply fungicides such as mancozeb or myclobutanil."
+      ],
+      "humidity": [
+        "Increase canopy ventilation to lower humidity."
+      ],
+      "pH": [
+        "Maintain soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Control irrigation during warm, humid periods."
+      ],
+      "fertilizer": [
+        "Use balanced fertilization to support vine health."
+      ],
+      "pesticide": [
+        "Follow recommendations from grape disease management literature."
+      ]
+    },
+    "sources": [
+      "Grape Disease Management - Extension Service",
+      "Research on Black Rot in Grapes"
+    ]
+  },
+  "GRES": {
+    "name": "Grape___Esca_(Black_Measles)",
+    "treatment": {
+      "default": [
+        "Prune out affected vines and remove infected debris.",
+        "Apply copper-based fungicides."
+      ],
+      "humidity": [
+        "Improve air circulation in the vineyard."
+      ],
+      "pH": [
+        "Maintain soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Avoid waterlogging and maintain moderate conditions."
+      ],
+      "fertilizer": [
+        "Ensure balanced nutrients for vine health."
+      ],
+      "pesticide": [
+        "Use integrated disease management practices."
+      ]
+    },
+    "sources": [
+      "Grape Esca Management - Extension Service"
+    ]
+  },
+  "GRLB": {
+    "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "treatment": {
+      "default": [
+        "Remove infected leaves and improve sanitation.",
+        "Apply fungicides such as myclobutanil."
+      ],
+      "humidity": [
+        "Increase airflow to reduce prolonged leaf wetness."
+      ],
+      "pH": [
+        "Keep soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Adjust irrigation to avoid excessive moisture."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer to enhance vine health."
+      ],
+      "pesticide": [
+        "Follow local recommendations for fungicide usage."
+      ]
+    },
+    "sources": [
+      "Grape Leaf Blight Management - Extension Service"
+    ]
+  },
+  "GRHE": {
+    "name": "Grape___healthy",
+    "treatment": {
+      "default": [
+        "Maintain regular vineyard management including pruning, balanced fertilization, and pest monitoring."
+      ],
+      "humidity": [
+        "Ensure good air circulation."
+      ],
+      "pH": [
+        "Maintain soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Monitor irrigation during temperature extremes."
+      ],
+      "fertilizer": [
+        "Follow soil test recommendations for nutrient application."
+      ],
+      "pesticide": [
+        "Apply preventive measures if pest pressure increases."
+      ]
+    },
+    "sources": [
+      "Grape Vineyard Management Guidelines"
+    ]
+  },
+  "ORHL": {
+    "name": "Orange___Haunglongbing_(Citrus_greening)",
+    "treatment": {
+      "default": [
+        "Remove severely infected trees.",
+        "Implement strict vector control to manage psyllids."
+      ],
+      "humidity": [
+        "Avoid excessive moisture which can boost psyllid populations."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.5."
+      ],
+      "temperature": [
+        "Use reflective mulches and optimized irrigation to regulate canopy temperature."
+      ],
+      "fertilizer": [
+        "Apply balanced citrus fertilizers."
+      ],
+      "pesticide": [
+        "Use insecticides targeting psyllids, following integrated pest management protocols."
+      ]
+    },
+    "sources": [
+      "Citrus Greening Management - USDA Extension",
+      "Research on Haunglongbing Control"
+    ]
+  },
+  "PCBS": {
+    "name": "Peach___Bacterial_spot",
+    "treatment": {
+      "default": [
+        "Remove infected tissues and improve sanitation.",
+        "Apply copper-based bactericides."
+      ],
+      "humidity": [
+        "Avoid overhead irrigation to reduce leaf wetness."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Bacterial spot worsens in warm, moist conditions; adjust watering accordingly."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to support plant health."
+      ],
+      "pesticide": [
+        "Follow local extension guidelines for bactericide application."
+      ]
+    },
+    "sources": [
+      "Peach Disease Management - Extension Service"
+    ]
+  },
+  "PCHE": {
+    "name": "Peach___healthy",
+    "treatment": {
+      "default": [
+        "Maintain standard orchard practices: proper irrigation, pruning, and balanced fertilization."
+      ],
+      "humidity": [
+        "Ensure proper spacing and air circulation."
+      ],
+      "pH": [
+        "Keep soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Monitor during extreme weather conditions."
+      ],
+      "fertilizer": [
+        "Apply fertilizers based on soil test recommendations."
+      ],
+      "pesticide": [
+        "Use preventive measures if pest pressure increases."
+      ]
+    },
+    "sources": [
+      "Orchard Management Guidelines - Extension Service"
+    ]
+  },
+  "PBBP": {
+    "name": "Pepper,_bell___Bacterial_spot",
+    "treatment": {
+      "default": [
+        "Remove infected leaves immediately.",
+        "Apply copper-based bactericides."
+      ],
+      "humidity": [
+        "Avoid overhead watering to minimize moisture on foliage."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Keep conditions moderate to reduce stress."
+      ],
+      "fertilizer": [
+        "Ensure balanced nutrient supply."
+      ],
+      "pesticide": [
+        "Follow IPM guidelines for bactericide application."
+      ]
+    },
+    "sources": [
+      "Pepper Disease Management - Extension Service"
+    ]
+  },
+  "PBHE": {
+    "name": "Pepper,_bell___healthy",
+    "treatment": {
+      "default": [
+        "Maintain standard cultural practices, including proper irrigation, fertilization, and pruning."
+      ],
+      "humidity": [
+        "Ensure good ventilation to reduce disease risk."
+      ],
+      "pH": [
+        "Keep soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Monitor and adjust watering during heat waves."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer based on crop needs."
+      ],
+      "pesticide": [
+        "Implement preventive pest management if necessary."
+      ]
+    },
+    "sources": [
+      "Bell Pepper Production Guidelines - Extension Service"
+    ]
+  },
+  "PTEB": {
+    "name": "Potato___Early_blight",
+    "treatment": {
+      "default": [
+        "Remove infected leaves and haul away plant debris.",
+        "Apply fungicides such as chlorothalonil or mancozeb."
+      ],
+      "humidity": [
+        "Improve field drainage and reduce excessive moisture."
+      ],
+      "pH": [
+        "Maintain soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Early blight is favored by warm, humid conditions; adjust irrigation accordingly."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to boost plant resilience."
+      ],
+      "pesticide": [
+        "Follow local fungicide schedules."
+      ]
+    },
+    "sources": [
+      "Potato Early Blight Management - Extension Service",
+      "Research on Early Blight Control"
+    ]
+  },
+  "PTLB": {
+    "name": "Potato___Late_blight",
+    "treatment": {
+      "default": [
+        "Remove and destroy infected plants immediately.",
+        "Apply late blight fungicides such as metalaxyl promptly."
+      ],
+      "humidity": [
+        "Ensure proper drainage and avoid overhead irrigation."
+      ],
+      "pH": [
+        "Maintain soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Late blight thrives in cool, wet conditions; consider protective measures."
+      ],
+      "fertilizer": [
+        "Maintain balanced nutrition to minimize stress."
+      ],
+      "pesticide": [
+        "Strictly follow fungicide application schedules."
+      ]
+    },
+    "sources": [
+      "Potato Late Blight Management - Extension Service"
+    ]
+  },
+  "PTHE": {
+    "name": "Potato___healthy",
+    "treatment": {
+      "default": [
+        "Continue standard agronomic practices including proper irrigation, balanced fertilization, and pest monitoring."
+      ],
+      "humidity": [
+        "Avoid waterlogging."
+      ],
+      "pH": [
+        "Keep soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Monitor irrigation during extreme heat."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer as per soil tests."
+      ],
+      "pesticide": [
+        "Use preventive pest management if required."
+      ]
+    },
+    "sources": [
+      "Standard Potato Crop Management - Extension Service"
+    ]
+  },
+  "RAHE": {
+    "name": "Raspberry___healthy",
+    "treatment": {
+      "default": [
+        "Maintain routine care including pruning, mulching, and balanced fertilization."
+      ],
+      "humidity": [
+        "Ensure proper air circulation to minimize fungal diseases."
+      ],
+      "pH": [
+        "Raspberries prefer slightly acidic soil (pH 5.5-6.5)."
+      ],
+      "temperature": [
+        "Protect from extreme temperature fluctuations."
+      ],
+      "fertilizer": [
+        "Use fertilizers formulated for berry crops."
+      ],
+      "pesticide": [
+        "Apply organic pest control if needed."
+      ]
+    },
+    "sources": [
+      "Raspberry Crop Management - Extension Service"
+    ]
+  },
+  "SOHE": {
+    "name": "Soybean___healthy",
+    "treatment": {
+      "default": [
+        "Follow routine agronomic practices with balanced nitrogen management and regular fertilization."
+      ],
+      "humidity": [
+        "Avoid waterlogged conditions."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.8."
+      ],
+      "temperature": [
+        "Monitor during temperature extremes."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer and consider nitrogen fixers."
+      ],
+      "pesticide": [
+        "Implement integrated pest management (IPM) strategies."
+      ]
+    },
+    "sources": [
+      "Soybean Production Guidelines - Extension Service"
+    ]
+  },
+  "SQPM": {
+    "name": "Squash___Powdery_mildew",
+    "treatment": {
+      "default": [
+        "Remove infected leaves and improve air circulation.",
+        "Apply sulfur or potassium bicarbonate fungicides."
+      ],
+      "humidity": [
+        "Avoid high humidity by adjusting irrigation."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.8."
+      ],
+      "temperature": [
+        "Powdery mildew often occurs in warm, dry conditions; timely fungicide application is key."
+      ],
+      "fertilizer": [
+        "Ensure balanced nutrition to minimize plant stress."
+      ],
+      "pesticide": [
+        "Use organic fungicides if possible."
+      ]
+    },
+    "sources": [
+      "Squash Powdery Mildew Control - Extension Service",
+      "Research on Powdery Mildew in Cucurbits"
+    ]
+  },
+  "STLS": {
+    "name": "Strawberry___Leaf_scorch",
+    "treatment": {
+      "default": [
+        "Remove scorched leaves and improve field sanitation.",
+        "Apply recommended fungicides for leaf scorch."
+      ],
+      "humidity": [
+        "Reduce excessive moisture by adjusting irrigation."
+      ],
+      "pH": [
+        "Maintain soil pH between 5.5 and 6.5 for strawberries."
+      ],
+      "temperature": [
+        "Avoid prolonged high temperatures which can exacerbate leaf scorch."
+      ],
+      "fertilizer": [
+        "Use low-nitrogen fertilizer to prevent excessive vegetative growth."
+      ],
+      "pesticide": [
+        "Apply organic fungicides if necessary."
+      ]
+    },
+    "sources": [
+      "Strawberry Production Manual - Extension Service"
+    ]
+  },
+  "STHE": {
+    "name": "Strawberry___healthy",
+    "treatment": {
+      "default": [
+        "Maintain routine care including proper irrigation, mulching, and balanced fertilization."
+      ],
+      "humidity": [
+        "Ensure good air circulation to reduce disease risk."
+      ],
+      "pH": [
+        "Keep soil pH between 5.5 and 6.5."
+      ],
+      "temperature": [
+        "Protect plants from extreme heat or cold."
+      ],
+      "fertilizer": [
+        "Apply fertilizers formulated for berry crops."
+      ],
+      "pesticide": [
+        "Monitor pest populations and use organic controls as needed."
+      ]
+    },
+    "sources": [
+      "Strawberry Crop Management - Extension Service"
+    ]
+  },
+  "TMBS": {
+    "name": "Tomato___Bacterial_spot",
+    "treatment": {
+      "default": [
+        "Remove infected foliage and fruit.",
+        "Apply copper-based bactericides."
+      ],
+      "humidity": [
+        "Avoid overhead watering to minimize leaf wetness."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Adjust watering in warm, humid conditions to limit bacterial proliferation."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to promote healthy growth."
+      ],
+      "pesticide": [
+        "Follow IPM guidelines for bactericide applications."
+      ]
+    },
+    "sources": [
+      "Tomato Bacterial Spot Management - Extension Service"
+    ]
+  },
+  "TMEB": {
+    "name": "Tomato___Early_blight",
+    "treatment": {
+      "default": [
+        "Remove infected leaves immediately.",
+        "Apply fungicides such as chlorothalonil or mancozeb."
+      ],
+      "humidity": [
+        "Water at the base to reduce leaf wetness."
+      ],
+      "pH": [
+        "Maintain soil pH around 6.0 to 6.8."
+      ],
+      "temperature": [
+        "Early blight is favored by warm, humid conditions; adjust irrigation accordingly."
+      ],
+      "fertilizer": [
+        "Provide balanced fertilizer to avoid plant stress."
+      ],
+      "pesticide": [
+        "Apply fungicides as per local guidelines."
+      ]
+    },
+    "sources": [
+      "Tomato Early Blight Management - Extension Service"
+    ]
+  },
+  "TMLB": {
+    "name": "Tomato___Late_blight",
+    "treatment": {
+      "default": [
+        "Remove and destroy infected plants.",
+        "Apply late blight fungicides such as metalaxyl promptly."
+      ],
+      "humidity": [
+        "Ensure proper drainage and avoid overhead irrigation."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.8."
+      ],
+      "temperature": [
+        "Late blight thrives in cool, wet conditions; consider protective measures."
+      ],
+      "fertilizer": [
+        "Maintain balanced nutrition to reduce stress."
+      ],
+      "pesticide": [
+        "Follow strict fungicide application schedules."
+      ]
+    },
+    "sources": [
+      "Tomato Late Blight Management - Extension Service"
+    ]
+  },
+  "TMLM": {
+    "name": "Tomato___Leaf_Mold",
+    "treatment": {
+      "default": [
+        "Remove infected foliage.",
+        "Apply fungicides such as chlorothalonil."
+      ],
+      "humidity": [
+        "Improve air circulation to help dry the foliage."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Leaf mold is common in cool, damp conditions; adjust irrigation accordingly."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to support plant resilience."
+      ],
+      "pesticide": [
+        "Follow local fungicide recommendations."
+      ]
+    },
+    "sources": [
+      "Tomato Leaf Mold Control - Extension Service"
+    ]
+  },
+  "TMSL": {
+    "name": "Tomato___Septoria_leaf_spot",
+    "treatment": {
+      "default": [
+        "Remove infected leaves and debris.",
+        "Apply fungicides targeted at Septoria leaf spot."
+      ],
+      "humidity": [
+        "Enhance air flow and minimize moisture."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Monitor irrigation during high temperatures."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer to reduce plant stress."
+      ],
+      "pesticide": [
+        "Follow extension service guidelines for fungicide application."
+      ]
+    },
+    "sources": [
+      "Tomato Septoria Leaf Spot Management - Extension Service"
+    ]
+  },
+  "TMSM": {
+    "name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "treatment": {
+      "default": [
+        "Regularly inspect and remove mite-infested foliage.",
+        "Apply miticides or introduce biological control agents."
+      ],
+      "humidity": [
+        "Maintain moderate humidity as spider mites thrive in dry conditions."
+      ],
+      "pH": [
+        "Overall plant health is key; soil pH is less critical here."
+      ],
+      "temperature": [
+        "High temperatures can increase mite populations; monitor closely."
+      ],
+      "fertilizer": [
+        "Avoid excessive nitrogen, which can promote mite growth."
+      ],
+      "pesticide": [
+        "Use targeted miticides or biological agents as needed."
+      ]
+    },
+    "sources": [
+      "Tomato Spider Mite Control - Extension Service",
+      "Research on Mite Management in Tomatoes"
+    ]
+  },
+  "TMTS": {
+    "name": "Tomato___Target_Spot",
+    "treatment": {
+      "default": [
+        "Remove infected leaves promptly.",
+        "Apply fungicides specific for target spot."
+      ],
+      "humidity": [
+        "Manage irrigation to reduce leaf wetness."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 7.0."
+      ],
+      "temperature": [
+        "Improve air circulation to reduce humidity around the plant."
+      ],
+      "fertilizer": [
+        "Use balanced fertilizer to support plant health."
+      ],
+      "pesticide": [
+        "Follow integrated pest management practices."
+      ]
+    },
+    "sources": [
+      "Tomato Target Spot Management - Extension Service"
+    ]
+  },
+  "TMYC": {
+    "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "treatment": {
+      "default": [
+        "Remove heavily infected plants.",
+        "Control whitefly populations using insecticides."
+      ],
+      "humidity": [
+        "Manage greenhouse humidity to reduce vector populations."
+      ],
+      "pH": [
+        "Maintain soil pH between 6.0 and 6.8."
+      ],
+      "temperature": [
+        "Avoid excessive heat to reduce plant stress and vector activity."
+      ],
+      "fertilizer": [
+        "Use balanced nutrition to boost plant immunity."
+      ],
+      "pesticide": [
+        "Apply insecticides targeting whiteflies following IPM strategies."
+      ]
+    },
+    "sources": [
+      "Tomato Yellow Leaf Curl Virus Management - Extension Service",
+      "Research on Whitefly Control in Tomatoes"
+    ]
+  },
+  "TMMV": {
+    "name": "Tomato___Tomato_mosaic_virus",
+    "treatment": {
+      "default": [
+        "Remove and destroy infected plants.",
+        "Sanitize tools and use virus-free transplants."
+      ],
+      "humidity": [
+        "Maintain moderate humidity to avoid stress."
+      ],
+      "pH": [
+        "Keep soil pH between 6.0 and 6.8."
+      ],
+      "temperature": [
+        "Maintain optimal growing temperatures to support plant immunity."
+      ],
+      "fertilizer": [
+        "Apply balanced fertilizer to ensure robust growth."
+      ],
+      "pesticide": [
+        "No direct chemical treatment; focus on cultural practices."
+      ]
+    },
+    "sources": [
+      "Tomato Mosaic Virus Management - Extension Service"
+    ]
+  },
+  "TMHE": {
+    "name": "Tomato___healthy",
+    "treatment": {
+      "default": [
+        "Maintain standard cultural practices: proper watering, balanced fertilization, and routine pruning."
+      ],
+      "humidity": [
+        "Ensure adequate air circulation."
+      ],
+      "pH": [
+        "Keep soil pH within the optimal range (6.0 to 6.8)."
+      ],
+      "temperature": [
+        "Monitor and adjust irrigation during extreme temperatures."
+      ],
+      "fertilizer": [
+        "Apply fertilizers based on soil test results."
+      ],
+      "pesticide": [
+        "Use preventive measures only if pest pressure increases."
+      ]
+    },
+    "sources": [
+      "Tomato Crop Management - Extension Service"
+    ]
+  }
+}
