@@ -1,52 +1,49 @@
 'use client'
-import { useState, useEffect } from "react";
-import { useSearchParams } from "next/navigation"; // Correct import for useSearchParams
+import { useState, useEffect } from 'react';
+import { useSearchParams } from 'next/navigation'; // Correct import for useSearchParams
 
-interface LocationData {
-  city: string;
-  country: string;
-  latitude: number;
-  longitude: number;
-  timezone: string;
+interface WeatherData {
+  temperature: number;
+  humidity: number;
+  weatherDescriptions: string[];
+  weatherIcon: string;
 }
 
 export default function Result() {
   const searchParams = useSearchParams();
-  const location = searchParams.get("location");
-  const soilType = searchParams.get("soilType");
+  const location = searchParams.get('location');
+  const soilType = searchParams.get('soilType');
 
-  const [locationData, setLocationData] = useState<LocationData | null>(null);
+  const [weatherData, setWeatherData] = useState<WeatherData | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [isError, setIsError] = useState(false);
 
   useEffect(() => {
     if (location) {
-      const fetchLocationData = async () => {
+      const fetchWeatherData = async () => {
         try {
           setIsLoading(true);
           setIsError(false);
 
-          // The fetch URL should be relative to the root, with '/api' prefix for App Router
-          const response = await fetch(`/api/geolocation?city=${encodeURIComponent(location as string)}`);
+          // Fetch weather data from the weatherstack API route
+          const response = await fetch(`/api/weather?city=${encodeURIComponent(location)}`);
           
-          // Check if the response is okay
           if (!response.ok) {
             const errorText = await response.text();
-            throw new Error(`Failed to fetch location data: ${response.status} ${errorText}`);
+            throw new Error(`Failed to fetch weather data: ${response.status} ${errorText}`);
           }
 
-          // Parse the JSON response
           const data = await response.json();
-          setLocationData(data);
+          setWeatherData(data);
         } catch (error) {
           setIsError(true);
-          console.error("Error fetching location data:", error);
+          console.error('Error fetching weather data:', error);
         } finally {
           setIsLoading(false);
         }
       };
 
-      fetchLocationData();
+      fetchWeatherData();
     }
   }, [location]);
 
@@ -65,17 +62,16 @@ export default function Result() {
 
       <div className="mt-6">
         {isError ? (
-          <p className="text-red-600">Error fetching location data. Please try again.</p>
-        ) : locationData ? (
+          <p className="text-red-600">Error fetching weather data. Please try again.</p>
+        ) : weatherData ? (
           <div className="bg-white p-4 rounded-lg shadow-md">
-            <p><strong>City:</strong> {locationData.city}</p>
-            <p><strong>Country:</strong> {locationData.country}</p>
-            <p><strong>Latitude:</strong> {locationData.latitude}</p>
-            <p><strong>Longitude:</strong> {locationData.longitude}</p>
-            <p><strong>Timezone:</strong> {locationData.timezone}</p>
+            <p><strong>Temperature:</strong> {weatherData.temperature} °C</p>
+            <p><strong>Humidity:</strong> {weatherData.humidity}%</p>
+            <p><strong>Weather:</strong> {weatherData.weatherDescriptions.join(', ')}</p>
+            <img src={weatherData.weatherIcon} alt="Weather icon" className="w-16 h-16" />
           </div>
         ) : (
-          <p>No location data available</p>
+          <p>No weather data available</p>
         )}
       </div>
     </div>
