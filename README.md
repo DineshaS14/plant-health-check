@@ -113,7 +113,10 @@ Open the app in your browser at http://localhost:3000
 🚀 **Fast, accurate, and user-friendly plant disease detection!**
 
 ⚡ Contributors
-🚀 Your Name (@DineshaS14)
+🚀 (@ababhhaa)
+🚀 (@sanjana-prem-k)
+🚀 (@stuthikrishna)
+🚀 Dinesha Shair (@DineshaS14)
 🔗 LinkedIn: https://www.linkedin.com/in/dineshas14/
 
 ⭐ Support & Contributions
